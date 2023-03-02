@@ -1,0 +1,26 @@
+hostels:
+    css: div.b978843432
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        Name:
+            css: div.fcab3ed991
+            xpath: null
+            type: Text
+        Price:
+            css: span.fcab3ed991
+            xpath: null
+            type: Text
+        ratings:
+            css: div.b5cd09854e.d10a6220b4
+            xpath: null
+            type: Text
+        roomtype:
+            css: 'div.d22a7c133b > div.d8eab2cf7f'
+            xpath: null
+            type: Text
+        Numberofreview:
+            css: 'div.b1e6dd8416 div.d8eab2cf7f'
+            xpath: null
+            type: Text
